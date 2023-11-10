@@ -46,13 +46,13 @@ Testing the DNA analyser
 
 
 
-.. image:: output_7_1.png
+.. image:: figures/output_7_1.png
 
 
 
-.. image:: output_7_2.png
+.. image:: figures/output_7_2.png
 
 
 
-.. image:: output_7_3.png
+.. image:: figures/output_7_3.png
 
