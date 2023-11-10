@@ -16,5 +16,5 @@ Contents
 .. toctree::
 
    usage
-   Data Preprocessing Guide
-   Tutorial-1
+   data
+   tutorial1
