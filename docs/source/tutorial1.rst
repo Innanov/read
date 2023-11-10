@@ -36,7 +36,7 @@ Testing the quantum DNA encoding methods
 
 
 
-.. image:: output_7_0.png
+.. image:: figures/output_7_0.png
 
 
 
@@ -48,7 +48,7 @@ Testing the quantum DNA encoding methods
 
 
 
-.. image:: output_8_0.png
+.. image:: figures/output_8_0.png
 
 
 
@@ -60,7 +60,7 @@ Testing the quantum DNA encoding methods
 
 
 
-.. image:: output_9_0.png
+.. image:: figures/output_9_1.png
 
 
 
@@ -72,7 +72,7 @@ Testing the quantum DNA encoding methods
 
 
 
-.. image:: output_10_0.png
+.. image:: figures/output_10_0.png
 
 
 
@@ -92,7 +92,7 @@ parameter alpha (float) are both required for encoding.
 
 
 
-.. image:: output_13_0.png
+.. image:: figures/output_13_0.png
 
 
 
@@ -104,7 +104,7 @@ parameter alpha (float) are both required for encoding.
 
 
 
-.. image:: output_14_0.png
+.. image:: figures/output_14_0.png
 
 
 
@@ -122,7 +122,7 @@ Testing the visualization methods
 
 
 
-.. image:: output_17_0.png
+.. image:: figures/output_17_0.png
 
 
 
@@ -133,7 +133,7 @@ Testing the visualization methods
 
 
 
-.. image:: output_18_0.png
+.. image:: figures/output_18_0.png
 
 
 
@@ -144,7 +144,7 @@ Testing the visualization methods
 
 
 
-.. image:: output_19_0.png
+.. image:: figures/output_19_0.png
 
 
 
