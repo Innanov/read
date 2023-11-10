@@ -1,4 +1,5 @@
-API
+examples
+
 ===
 
 .. autosummary::
