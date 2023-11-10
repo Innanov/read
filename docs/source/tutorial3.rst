@@ -9,7 +9,7 @@ Importing the package
     import nz_seqtech
 
 
-Importing classical_ml_models class and functions
+Importing classical_ml_models module
 ^^^^^^^^^^^^^^^^^^^
 
 .. code:: ipython3
