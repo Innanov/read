@@ -155,7 +155,7 @@ Testing the visualization methods
 
 
 
-.. image:: output_20_0.png
+.. image:: figures/output_20_0.png
 
 
 
