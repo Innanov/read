@@ -1,3 +1,6 @@
+Tutorial-1
+================
+
 Installing the `Package <https://pypi.org/project/nz-seqtech/>`__
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
