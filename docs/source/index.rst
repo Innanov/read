@@ -18,3 +18,6 @@ Contents
    usage
    data
    tutorial1
+   tutorial2
+   tutorial3
+   tutorial4
