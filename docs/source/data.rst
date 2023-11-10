@@ -7,11 +7,9 @@ In the context of the NZ-SeQTech Machine Learning models (classical and quantum)
 - **X and Y:** These are the input features and target labels used for QML models.
 - **X_train, Y_train, X_test, and Y_test:** These are the input features and target labels used for classical ML models.
 
-Data Preprocessing
--------------------
 
 Enhancing Data
-~~~~~~~~~~~~~~
+-------------------
 
 Data preprocessing is crucial to ensure the data is suitable for both QML and classical ML models. Here's how it's done:
 
@@ -42,10 +40,10 @@ Data preprocessing is crucial to ensure the data is suitable for both QML and cl
       # Perform necessary transformations on the data.
 
 Handling Missing Values
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 Dealing with Missing Data
-^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Handling missing values is a critical preprocessing step. Strategies include:
 
@@ -71,10 +69,10 @@ Handling missing values is a critical preprocessing step. Strategies include:
   Use advanced methods like interpolation or machine learning-based imputation.
 
 Feature Engineering Techniques
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 Enhancing Features
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 Feature engineering techniques improve model performance. Some methods include:
 
@@ -122,7 +120,7 @@ Feature engineering techniques improve model performance. Some methods include:
       data['new_feature'] = data['feature_1'] + data['feature_2']
 
 Train-Test Split
-~~~~~~~~~~~~~~~~
+----------------
 
 To evaluate the performance of our models, you will need to split the preprocessed data into two parts:
 
