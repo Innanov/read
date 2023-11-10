@@ -8,14 +8,8 @@ Importing the package
 
     import nz_seqtech
 
-Importing quantum_ml_models module
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. code:: ipython3
-
-    import nz_seqtech.classical_ml_models
-
-Importing ML models
+Importing classical_ml_models class and functions
 ^^^^^^^^^^^^^^^^^^^
 
 .. code:: ipython3
