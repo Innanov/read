@@ -11,7 +11,7 @@ In the context of the NZ-SeQTech Machine Learning models (classical and quantum)
 Enhancing Data
 -------------------
 
-Data preprocessing is crucial to ensure the data is suitable for both QML and classical ML models. Here's how it's done:
+Data preprocessing is crucial to ensure the data is suitable for both QML and classical ML models. Here is how it's done:
 
 1. **Data Collection:**
    Gather the raw data from your source.
